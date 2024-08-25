@@ -31,7 +31,7 @@ We did 50 epochs, to get a good accuracy from the model i.e. 98% for training ac
 
 ## The Output 
 1. Open Eyes<br />
-![Open_eyes](https://user-images.githubusercontent.com/16632408/159187179-b557ab8e-fb8c-4408-850b-417893014f8c.png)
+![Open_eyes](https://github.com/Adarsh-Arun/requireq-files-and-photos/blob/main/Screenshot%20(352).png)
 2. Close Eyes<br />
 Here we detect whether the eyes are closed and count the number of frames for which the eyes were closed (10 frames) greater than that the Alarm will ring and the WARNING sign will be displayed.
 ![Closed_eyes](https://user-images.githubusercontent.com/16632408/159187305-68cbdee3-8325-4216-85e3-7dbb66a429fb.png)
